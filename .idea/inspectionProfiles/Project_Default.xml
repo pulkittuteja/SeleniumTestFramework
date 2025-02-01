@@ -1,0 +1,25 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Cases.test_e2e.createParameters" />
+          <option value="testCases.Integrations.conftest.test_connectiontodb" />
+          <option value="testCases.Integrations.conftest.*" />
+          <option value="testData.TCPackages.false" />
+          <option value="testCases.Integrations.test_new.post_request" />
+          <option value="Library.Integrations.get_data.send_log_emails" />
+          <option value="testCases.conftest" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
