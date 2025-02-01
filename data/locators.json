@@ -1,0 +1,9 @@
+{
+  "login_page": {
+    "username": "input[name='username']",
+    "password": "input[name='password']",
+    "login_button": "input[value='Log In']",
+    "error_message": "//p[@class='error']",
+    "open_account_link": "//a[@href='openaccount.htm']"
+  }
+}

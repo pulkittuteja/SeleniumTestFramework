@@ -1,40 +1,35 @@
-2025-02-01 10:50:39,157 - INFO - Starting test execution.
-2025-02-01 10:50:39,157 - INFO - Initializing browser: edge
-2025-02-01 10:50:39,157 - INFO - ====== WebDriver manager ======
-2025-02-01 10:50:43,364 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
-2025-02-01 10:50:43,543 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
-2025-02-01 10:50:43,652 - INFO - There is no [win64] edgedriver "132.0.2957.140" for browser edge "132.0.2957" in cache
-2025-02-01 10:50:43,666 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
-2025-02-01 10:50:43,788 - INFO - About to download new driver from https://msedgedriver.azureedge.net/132.0.2957.140/edgedriver_win64.zip
-2025-02-01 10:50:43,883 - INFO - Driver downloading response is 200
-2025-02-01 10:50:44,500 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
-2025-02-01 10:50:44,872 - INFO - Driver has been saved in cache [C:\Users\Pulkit.Tuteja\.wdm\drivers\edgedriver\win64\132.0.2957.140]
-2025-02-01 10:50:49,590 - INFO - Browser edge initialized successfully.
-2025-02-01 10:50:49,590 - INFO - Opening URL: https://parabank.parasoft.com/parabank/index.htm
-2025-02-01 10:50:52,782 - INFO - Running Test Case: TC_007
-2025-02-01 10:50:53,221 - INFO - Logging in with Username: 'abcdef' and Password: 'Test@123'
-2025-02-01 10:50:54,754 - INFO - Clicked on Login button.
-2025-02-01 10:50:54,787 - INFO - Error message displayed: The username and password could not be verified.
-2025-02-01 10:50:54,787 - INFO - Test TC_007 completed successfully
-2025-02-01 10:50:54,787 - INFO - Running Test Case: TC_008
-2025-02-01 10:50:55,129 - INFO - Logging in with Username: 'pulkittuteja' and Password: 'Tt@123'
-2025-02-01 10:50:56,229 - INFO - Clicked on Login button.
-2025-02-01 10:50:56,253 - INFO - Error message displayed: The username and password could not be verified.
-2025-02-01 10:50:56,253 - INFO - Test TC_008 completed successfully
-2025-02-01 10:50:56,253 - INFO - Running Test Case: TC_009
-2025-02-01 10:50:56,605 - INFO - Logging in with Username: '' and Password: ''
-2025-02-01 10:50:57,219 - INFO - Clicked on Login button.
-2025-02-01 10:50:57,296 - INFO - Error message displayed: Please enter a username and password.
-2025-02-01 10:50:57,296 - INFO - Test TC_009 completed successfully
-2025-02-01 10:50:57,303 - INFO - Running Test Case: TC_010
-2025-02-01 10:50:57,654 - INFO - Logging in with Username: 'invalid' and Password: 'invalid'
-2025-02-01 10:50:58,855 - INFO - Clicked on Login button.
-2025-02-01 10:50:58,872 - INFO - Error message displayed: The username and password could not be verified.
-2025-02-01 10:50:58,872 - INFO - Test TC_010 completed successfully
-2025-02-01 10:50:58,887 - INFO - Test CASE 6: Logging into the website with Correct credentials passed
-2025-02-01 10:50:59,257 - INFO - Using valid username: pulkittuteja
-2025-02-01 10:50:59,441 - INFO - Entered credentials.
-2025-02-01 10:50:59,968 - INFO - Clicked on Login button.
-2025-02-01 10:51:10,317 - ERROR - Login may have failed. 'openaccount.htm' element not found as this is a Test website sometimes login occur and sometimes not
-2025-02-01 10:51:10,473 - INFO - Closing browser.
-2025-02-01 10:51:12,866 - INFO - Test execution completed.
+2025-02-01 13:52:49,678 - INFO - Starting test execution.
+2025-02-01 13:52:49,678 - INFO - Initializing browser: edge
+2025-02-01 13:52:49,678 - INFO - ====== WebDriver manager ======
+2025-02-01 13:52:53,811 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2025-02-01 13:52:54,122 - INFO - Get LATEST edgedriver version for Edge 132.0.2957
+2025-02-01 13:52:54,313 - INFO - Driver [C:\Users\Pulkit.Tuteja\.wdm\drivers\edgedriver\win64\132.0.2957.140\msedgedriver.exe] found in cache
+2025-02-01 13:52:56,151 - INFO - Browser edge initialized successfully.
+2025-02-01 13:52:56,151 - INFO - Opening URL: https://parabank.parasoft.com/parabank/index.htm
+2025-02-01 13:53:00,011 - INFO - Running Test Case: TC_007
+2025-02-01 13:53:00,501 - INFO - Logging in with Username: 'abcdef' and Password: 'Test@123'
+2025-02-01 13:53:01,102 - INFO - Clicked on Login button.
+2025-02-01 13:53:01,164 - INFO - Error message displayed: The username and password could not be verified.
+2025-02-01 13:53:01,164 - INFO - Test TC_007 completed successfully
+2025-02-01 13:53:01,166 - INFO - Running Test Case: TC_008
+2025-02-01 13:53:01,506 - INFO - Logging in with Username: 'pulkittuteja' and Password: 'Tt@123'
+2025-02-01 13:53:02,076 - INFO - Clicked on Login button.
+2025-02-01 13:53:02,127 - INFO - Error message displayed: The username and password could not be verified.
+2025-02-01 13:53:02,127 - INFO - Test TC_008 completed successfully
+2025-02-01 13:53:02,129 - INFO - Running Test Case: TC_009
+2025-02-01 13:53:02,445 - INFO - Logging in with Username: '' and Password: ''
+2025-02-01 13:53:02,899 - INFO - Clicked on Login button.
+2025-02-01 13:53:02,925 - INFO - Error message displayed: Please enter a username and password.
+2025-02-01 13:53:02,925 - INFO - Test TC_009 completed successfully
+2025-02-01 13:53:02,927 - INFO - Running Test Case: TC_010
+2025-02-01 13:53:03,245 - INFO - Logging in with Username: 'invalid' and Password: 'invalid'
+2025-02-01 13:53:03,825 - INFO - Clicked on Login button.
+2025-02-01 13:53:03,871 - INFO - Error message displayed: The username and password could not be verified.
+2025-02-01 13:53:03,871 - INFO - Test TC_010 completed successfully
+2025-02-01 13:53:03,873 - INFO - Running Test Case: Valid Login
+2025-02-01 13:53:04,202 - INFO - Using valid username: pulkittuteja
+2025-02-01 13:53:04,313 - INFO - Entered credentials.
+2025-02-01 13:53:04,766 - INFO - Clicked on Login button.
+2025-02-01 13:53:14,786 - ERROR - Login may have failed. 'openaccount.htm' element not found as this is a test website, sometimes login occurs and sometimes not
+2025-02-01 13:53:14,894 - INFO - Closing browser.
+2025-02-01 13:53:18,293 - INFO - Test execution completed.
